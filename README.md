@@ -1,4 +1,4 @@
-# Customer Relationship Management (CRM) Analysis for Marketing data
+# Maximizing revenue for drivers
 
 ## PROBLEM STATEMENT
 
@@ -98,7 +98,7 @@ N= not a store and forward trip
 
 - `Feature Importance (Using Random Forest)`
 
-![text](Images/important_feautres.png)
+![text](Assests/datatypes.png)
 
 Finding:
 
@@ -109,12 +109,14 @@ Finding:
 
 #### - Amount of customers prefer to pay with card vs cash
 
-![text](Images/AOV%20vs%20NumStorePurchases.png)
+![text](Assests/ratio.png)
 
 * T static (r):  152.9609345425821
 * p-value:  0.00
 
 We got a T-test of 152.96 and a p-value of almost zero, which states that they are statistically significant and have a positive correlation. (If the p-value is > 0.05, we will fail to reject the null hypothesis, where they do not correlate.)
+
+![text](Assests/ream.png)
 
 
 ## Recommendations
